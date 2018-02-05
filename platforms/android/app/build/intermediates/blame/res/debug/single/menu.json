@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangwei/Documents/work/weex/weex-ui-brlf/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/zhangwei/Documents/work/weex/weex-ui-brlf/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zhangwei/Documents/work/weex/weex-ui-brlf/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/zhangwei/Documents/work/weex/weex-ui-brlf/platforms/android/app/src/main/res/menu/main_scan.xml"
+    }
+]
